@@ -31,6 +31,8 @@ Email: sonenkkaa@gmail.com
 
 Пароль: S!2guTf$QTSVnWF
 
+(Решила оставить базу данных и .env файл, чтобы не мучаться)
+
 ### 3. Запуск frontend
 1. Перейти в папку frontend
 ```bash
