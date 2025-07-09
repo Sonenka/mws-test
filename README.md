@@ -26,7 +26,9 @@ npm run develop
 
 Доступ к админке:
 URL: http://localhost:1337/admin
+
 Email: sonenkkaa@gmail.com
+
 Пароль: S!2guTf$QTSVnWF
 
 ### 3. Запуск frontend
